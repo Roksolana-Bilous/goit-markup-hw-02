@@ -54,8 +54,6 @@ a {
 }
 
   .title-main {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -68,9 +66,7 @@ a {
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.04em;
-    width: 169px;
-    height: 56px;
-    background: #4d5ae5;
+    bbackground: #4d5ae5;
     cursor: pointer;
     color: #fff;;
   }
@@ -93,21 +89,19 @@ a {
     color: #434455;
   }
   .text-team-main {
-    background-color: #F4F4FD
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    background: #f4f4fd;
   }
 .team-list {
   background-color: #FFFFFF;
 }
   .team-img {
-    width: 264px;
-    height: 260px;
+    background: #fff;
   }
   .team-title {
     font-weight: 500;
@@ -125,22 +119,16 @@ a {
     color: #434455;
   } 
   .portfolio-title-main {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
-    background-color: #F4F4FD;
     text-transform: capitalize;
   }
-     .portfolio-item {
+  .portfolio-item {
       background-color: #FFFFFF;
      }
-  .portfolio-img {
-    width: 360px;
-    height: 300px;
-  }
+
   .portfolio-title {
     font-weight: 500;
     font-size: 20px;
