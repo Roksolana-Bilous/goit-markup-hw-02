@@ -90,25 +90,23 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
   }
-  
-  .text-team-main {
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize;
-    background: #f4f4fd;
-  }
-  .team {
-    background-color: #F4F4FD
-  }
-.team-list {
+.text-team-main {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+ }
+ 
+.team {
+  background-color: #F4F4FD
+}
+
+.team-item {
   background-color: #FFFFFF;
 }
-  .team-img {
-    background: #fff;
-  }
+
   .team-title {
     font-weight: 500;
     font-size: 20px;
@@ -116,8 +114,8 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #FFFFFF;
   }
+
   .team-text {
     font-size: 16px;
     line-height: 1.5;
